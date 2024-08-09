@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body style={{backgroundColor:"black"}}>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello! I'm Aditya Singh Dangi, a passionate and dedicated student pursuing my BTech in IT at Bhagwan Parshuram Institute of Technology. I have a strong interest in web development and software engineering, with proficiency in technologies like HTML, CSS, JavaScript, ReactJS, NodeJS, and more. I've actively worked on various projects, from creating interactive web applications to exploring AI technologies during my internship. 
+            Hello! I'm Aditya Singh Dangi, a passionate and dedicated student pursuing my BTech in IT at Bhagwan Parshuram Institute of Technology. I have a strong interest in web development and software engineering, with proficiency in technologies like HTML, CSS, JavaScript, ReactJS, and more. I've actively worked on various projects, from creating interactive web applications to exploring AI technologies during my internship. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,7 +24,6 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
-
           <p style={{ color: "rgb(105, 105, 105)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>

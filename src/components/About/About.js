@@ -23,7 +23,6 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-            
             <Aboutcard />
           </Col>
           <Col
@@ -34,14 +33,8 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
-        
-
         <Techstack />
-
-        
-        
         <Toolstack />
-
         <Github />
       </Container>
     </Container>

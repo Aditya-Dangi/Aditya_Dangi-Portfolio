@@ -45,7 +45,7 @@ const Navbar = () => {
           <Link to="/Contact">Contact</Link>
         </li>
         <li>
-          <Link to="https://drive.google.com/file/d/1lpY1gL8af6tX-iRrs9bBwoVt6ZQOiwTF/view" target='black'>
+          <Link to="https://drive.google.com/file/d/1LQ3hv1Z1eMFE5srmRlYd8lKIXDNI5i0w/view?usp=sharing" target='_blank'>
             <button>
               Resume
             </button>
