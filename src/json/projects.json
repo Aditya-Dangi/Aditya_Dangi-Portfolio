@@ -19,5 +19,12 @@
     "image": "fyle-project.jpg",
     "demoLink": "https://fyle-assignment-project.netlify.app",
     "codeLink": "https://github.com/Aditya-Dangi/Fyle-Assignment-Project"
+  },
+  {
+    "title": "Fitness Web App",
+    "description": "Fitness web app using MUI, Rapid API, Tailwind CSS, and React, allowing users to search exercises, view instructions, and exercise related YouTube videos for enhanced workouts.",
+    "image": "gym.jpg",
+    "demoLink": "https://fitness-exercises-web-app.netlify.app",
+    "codeLink": "https://github.com/Aditya-Dangi/Fitness-Web-App"
   }
 ]

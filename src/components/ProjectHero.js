@@ -2,7 +2,7 @@ import React from 'react';
 import './ProjectHeroStyle.css'; 
 import ProjectImg from '../assets/ProjectHeroImg.jpeg';
 import projectsData from "../json/projects.json"; 
-
+import gymImg from "../assets/gym.jpg";
 import gameImg from '../assets/game.jpg';
 import wordleCloneImg from '../assets/wordle-clone.jpg';
 import fyleProjectImg from '../assets/fyle-project.jpg';
@@ -11,6 +11,7 @@ const images = {
   'game.jpg': gameImg,
   'wordle-clone.jpg': wordleCloneImg,
   'fyle-project.jpg': fyleProjectImg,
+  'gym.jpg': gymImg
 };
 
 const ProjectHero = () => {
